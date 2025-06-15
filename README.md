@@ -1,3 +1,5 @@
+![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
+![Python 3](https://img.shields.io/badge/python-3.x-blue.svg)
 # 🕹️ Hangman Game (Python + MySQL)
 
 This is a beginner-friendly Hangman game built in Python. The game allows player registration, scoring, and saving best scores using a MySQL database.
